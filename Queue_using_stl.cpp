@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 #include<queue>
 using namespace std;
-int main(){
+//stl queue calling syntex
+// queue data_type Name_of_uqeue int main(){
     queue <int> q;
     q.push(1);
     q.push(10);
@@ -18,4 +19,3 @@ int main(){
 
     return 0;
 }
-// queue int Name_of_uqeue
